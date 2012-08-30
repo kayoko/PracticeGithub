@@ -27,14 +27,9 @@
     NSLog(@"start commenting");
     NSLog(@"second comment");
     NSLog(@"third comment");
-<<<<<<< HEAD
     NSLog(@"master comment1");
-
-    
     NSLog(@"brunch comment 4");
 
-=======
->>>>>>> parent of 3a3e8ae... brunch comment4
     // Release any retained subviews of the main view.
 }
 
