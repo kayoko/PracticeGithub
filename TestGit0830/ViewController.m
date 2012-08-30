@@ -25,6 +25,7 @@
     [super viewDidUnload];
     NSLog(@"this is brunch1 !!!");
     NSLog(@"start commenting");
+    NSLog(@"second comment");
     // Release any retained subviews of the main view.
 }
 
