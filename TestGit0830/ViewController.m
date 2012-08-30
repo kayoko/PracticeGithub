@@ -32,6 +32,7 @@
     NSLog(@"master comment 5");
     NSLog(@"mseter comment 7");
     NSLog(@"master comment 6");
+    NSLog(@"master comment 8");
 
 
     // Release any retained subviews of the main view.
